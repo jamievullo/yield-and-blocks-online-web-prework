@@ -1,6 +1,6 @@
-def hello_t(names)
-  i = 0 
-  while i < str.length 
+def hello_t(array)
+  
+   
   
 
 end
