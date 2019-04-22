@@ -1,4 +1,7 @@
-def hello_t
+def hello_t(names)
+  i = 0 
+  while i < str.length 
+  
 
 end
 
